@@ -15,7 +15,8 @@ Why your voice beats any recording at bedtime:
 05  Any lullaby works when it's yours
 
 ## Closer (website)
-Eyebrow: You already have the one thing that works.
+No eyebrow.
+Main: Your voice is the one they want — we can make you a melody that's personalized just for them.
 URL: driftlullabies.com
 
 Rendered slide-1..slide-7 (weight 650, cream). Hook #26. No universal/cross-cultural absolutes.
