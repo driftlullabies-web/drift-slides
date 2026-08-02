@@ -3,7 +3,7 @@
 Format: carousel · bg cream · lane Keepsake · CTA Follow
 
 ## Cover
-The newborn moments no one thinks to save…
+The newborn moments nobody tells you you'll miss…
 
 ## Items
 01  The way they curl into your neck
