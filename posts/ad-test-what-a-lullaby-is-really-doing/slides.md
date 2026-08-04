@@ -7,7 +7,7 @@ the big navy reframe hook (render_cover gained an optional `eyebrow=` arg for th
 
 ## Cover (eyebrow setup + reframe hook; ellipses continue the thought across the break)
 eyebrow: Most parents think a lullaby is just a nice thing to do before bed…
-hook: …But your baby's brain is doing something much deeper.
+hook: …but your baby's brain is doing something much deeper.
 
 ## Items
 01 — Long before they can say your name, they recognize your voice.
