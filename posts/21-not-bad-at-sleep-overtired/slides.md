@@ -3,7 +3,7 @@
 Format: carousel · bg cream · lane Sleep · CTA Save
 
 ## Cover
-Your newborn isn't 'bad at sleep' — they're overtired. The difference:
+Your newborn isn't 'bad at sleep' — they may be overtired. The difference:
 
 ## Items
 01  Overtired newborns fight sleep harder
