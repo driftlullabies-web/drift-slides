@@ -6,7 +6,7 @@ Cover uses the eyebrow layout (sentence 1 = lavender setup, sentence 2 = big ref
 
 ## Cover (eyebrow setup + reframe hook; ellipses continue the thought across the break)
 eyebrow: Most parents focus on getting their baby to sleep…
-hook: …They don't realize they can teach their baby's brain that sleep is coming.
+hook: …they don't realize they can teach their baby's brain that sleep is coming.
 
 ## Items
 01 — Babies learn through repetition long before they understand words.
