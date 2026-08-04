@@ -2,11 +2,12 @@
 
 Format: carousel · bg cream · lane Lullaby-subject · CTA Website
 Source: Ben's ad-concept #1 (`Social Media/ad-concepts.md`), verbatim. Test as a regular carousel.
-Cover carries Ben's first two lines together (the reframe); cover rendered at max_size=56 so both
-sentences fit above the byline.
+Cover uses the new myth-bust layout: sentence 1 as the small lavender eyebrow (setup), sentence 2 as
+the big navy reframe hook (render_cover gained an optional `eyebrow=` arg for this).
 
-## Cover
-Most parents think a lullaby is just a nice thing to do before bed. But your baby's brain is doing something much deeper.
+## Cover (eyebrow setup + reframe hook)
+eyebrow: Most parents think a lullaby is just a nice thing to do before bed.
+hook: But your baby's brain is doing something much deeper.
 
 ## Items
 01 — Long before they can say your name, they recognize your voice.
