@@ -4,9 +4,9 @@ Format: carousel · bg cream · lane Sleep/ritual (educational) · CTA Save
 Source: Ben's ad-concept #2 (`Social Media/ad-concepts.md`), verbatim slides. Test as a regular carousel.
 Cover uses the eyebrow layout (sentence 1 = lavender setup, sentence 2 = big reframe hook).
 
-## Cover (eyebrow setup + reframe hook)
-eyebrow: Most parents focus on getting their baby to sleep.
-hook: They don't realize they can teach their baby's brain that sleep is coming.
+## Cover (eyebrow setup + reframe hook; ellipses continue the thought across the break)
+eyebrow: Most parents focus on getting their baby to sleep…
+hook: …They don't realize they can teach their baby's brain that sleep is coming.
 
 ## Items
 01 — Babies learn through repetition long before they understand words.
