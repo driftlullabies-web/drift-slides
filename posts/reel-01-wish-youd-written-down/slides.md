@@ -12,7 +12,7 @@ This post has NO slide-N.png files. Its single asset is `reel.mp4`, attached to 
 headline: The tiny newborn moments tonight you'll wish you'd written down
 items:
   - The weight of them asleep on your chest, heavier than you expected
-  - The tiny sigh right at the moment they finally give in
+  - The tiny sigh right at the moment they finally give in to sleep
   - A whole hand wrapped around one of your fingers
   - The 2am quiet that belongs to nobody but the two of you
 turn: You think you'll remember. These are the ones that go first.
