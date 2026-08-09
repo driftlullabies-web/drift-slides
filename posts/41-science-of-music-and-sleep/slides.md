@@ -1,9 +1,7 @@
 # 41 - Science Of Music And Sleep
 
 Format: carousel · bg cream · lane Lullaby-subject · CTA Website · hook #29 [A physiological]
-
-## Cover eyebrow
-It isn't only a soothing habit.
+Revised 2026-08-09 from Ben's review workbook (post-review-2026-08-10.numbers).
 
 ## Cover
 The science of why music can help your newborn fall asleep:
@@ -11,7 +9,7 @@ The science of why music can help your newborn fall asleep:
 ## Items
 01  A slow, steady rhythm can guide their breathing down with it
 02  Repetition may tell their nervous system what's coming next
-03  A familiar melody can lower the effort of settling
+03  A familiar melody can help them feel safe
 04  Singing can calm you too — and they read your body
 
 ## Closer (website CTA — LOCKED card)
