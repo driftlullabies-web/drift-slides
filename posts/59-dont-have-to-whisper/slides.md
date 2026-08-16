@@ -13,7 +13,9 @@ You don't have to whisper around a sleeping newborn…
 05  A predictable "regular life" soundscape can become part of their cue
 
 ## Closer (save)
-Save this and stop tiptoeing tonight.
+Save this as a reminder that you don't have to tiptoe tonight.
+
+REVISED 2026-08-16 per Ben's review (closer wording only).
 
 Render with render_cover / render_items_for_post / render_follow (render_save alias), weight 650, bg BG_CREAM.
 Claims hedged with can throughout.
