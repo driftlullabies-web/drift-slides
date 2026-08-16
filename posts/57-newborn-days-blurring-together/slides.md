@@ -13,6 +13,8 @@ If the newborn days are all blurring together…
 05  This blur has an end date, even when it doesn't feel like it
 
 ## Closer (share)
-Send this to a mom in the blur right now.
+Send this to a mom in the blur right now as a reminder that it's normal and it passes.
+
+REVISED 2026-08-16 per Ben's review (closer wording only).
 
 Render with render_cover / render_items_for_post / render_follow, weight 650, bg BG_CREAM.
