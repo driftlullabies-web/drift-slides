@@ -3,7 +3,7 @@
 Format: carousel · bg keepsake (kraft-paper texture)
 
 ## Cover
-The faces your newborn makes that don't have a name yet — except the one you gave them…
+The faces your newborn makes that don't have a name yet…
 
 ## Items
 01  The pre-sneeze face nobody warned you about
@@ -13,6 +13,10 @@ The faces your newborn makes that don't have a name yet — except the one you g
 05  The one you catch mid-yawn and can't stop replaying
 
 ## Closer (follow)
-Follow for more faces only you'd recognize.
+Follow for more of these newborn moments and reminders
+
+REVISED 2026-08-16 per Ben's review: cover shortened (dropped "— except the one you gave them," which
+the item slides never actually paid off — Rule 8 fix); closer generalized per feedback memory
+drift-generic-closer-ctas.
 
 Render with render_keepsake_cover / render_keepsake_items_for_post / render_keepsake_follow, weight 550.
