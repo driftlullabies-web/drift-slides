@@ -13,6 +13,8 @@ The tiny opinions your newborn already has, and only you've noticed…
 05  A face they save for you and nobody else
 
 ## Closer (follow)
-Follow for the small things only you'd catch.
+Follow for new mom encouragement and reminders
+
+REVISED 2026-08-16 per Ben's review (closer wording only) — original closer read as too tied to the specific hook content; standing note: keep closers general (encouragement/support/reminders/tips), see feedback memory drift-generic-closer-ctas.
 
 Render with render_keepsake_cover / render_keepsake_items_for_post / render_keepsake_follow, weight 550.
