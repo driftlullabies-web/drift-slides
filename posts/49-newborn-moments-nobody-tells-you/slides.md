@@ -13,6 +13,8 @@ The newborn moments nobody tells you you'll miss…
 05  Being the only person who can read exactly what they need
 
 ## Closer (follow)
-Follow for the moments you'll want to remember.
+Follow for more reminders to soak in these little moments
+
+REVISED 2026-08-16 per Ben's review (closer wording only).
 
 Render with render_keepsake_cover / render_keepsake_items_for_post / render_keepsake_follow, weight 550.
