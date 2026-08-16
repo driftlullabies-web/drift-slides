@@ -13,6 +13,8 @@ If you cried in the bathroom while your newborn napped…
 05  You're allowed to just sit there for a minute before you go back in
 
 ## Closer (share)
-Send this to a mom who needs to hear it's common.
+Send this to a mom who needs a reminder that it's okay to not be okay
+
+REVISED 2026-08-16 per Ben's review (closer wording only).
 
 Render with render_cover / render_items_for_post / render_follow, weight 650, bg BG_CREAM.
