@@ -13,6 +13,8 @@ The version of you they already trust more than anyone else…
 05  The one they reach for first, every single time
 
 ## Closer (save)
-Save this for the days you don't feel like you know what you're doing.
+Save this as a reminder of how important you are to them
+
+REVISED 2026-08-16 per Ben's review (closer wording only) — see feedback memory drift-generic-closer-ctas.
 
 Render with render_keepsake_cover / render_keepsake_items_for_post / render_keepsake_follow (render_keepsake_save alias), weight 550.
