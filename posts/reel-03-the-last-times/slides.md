@@ -22,11 +22,35 @@ This post has NO slide-N.png files. Its single asset is `reel.mp4`, attached to 
 ## Card (see card.json for the machine-readable source)
 headline: The newborn 'last times' you'll never see coming
 items:
-  - The last 3am feed, the one you'd have savoured if you had known
+  - The last 3am feed, the only one you'd have savoured if you had known
   - The last curl asleep on your chest, unannounced
-  - The last time they fit along one forearm, before that changes
-  - The last week their sleeves are too long, then suddenly not
-turn: Nothing marks them. That's why tonight is worth noticing.
+  - The last time they fit along one forearm
+  - The last bath where they still fit in the tub, knees folded up
+turn: You won't know until they happen. That's why tonight is worth noticing.
+
+## REVISED 2026-08-24 per Ben's review
+
+Items 1 and 3 and the turn line are **Ben's wording, verbatim** — do not "fix" them (9c).
+He added *"only"* to item 1, cut *"before that changes"* off item 3, and rewrote the turn.
+
+**Item 4 was emptied in his workbook, and an empty cell is a request for a REPLACEMENT, not a
+shorter card** (9b). The line he cut was *"The last week their sleeves are too long, then suddenly
+not"* — the only item in the set that was about clothes rather than about the baby, and the weakest
+payoff of the four. The replacement stays on the body and keeps a real payoff clause:
+*"The last bath where they still fit in the tub, knees folded up."*
+
+⚠️ **His edit to item 3 puts the card outside the house shape, and that is left standing.**
+At 40 characters it is under `check_reel_copy.py`'s 45-char floor — the floor that exists because
+sub-45 items render on ONE line and make the card read as a skimmable list, which is the exact
+failure Ben himself called out on Aug 16 (*"it looks like carousel text"*). So his own August rule
+and his August 24 edit now disagree.
+
+Resolved the way `check_closers.py` already resolves this: **the checker reports his lines and
+excludes them from its exit code.** `check_reel_copy.py` gained the same `per Ben's review`
+awareness rather than either silently padding his sentence or blocking the push. Flagged in the
+digest for him to settle — the rendered card is the thing to judge it on, and item 3 still wraps to
+two lines here because the auto-fit sizes type to the longest item, so in practice it does not read
+as a list.
 
 House shape (check_reel_copy.py): 4 items · 47–63 chars · 8–13 words · spread 16 · every item
 wraps to exactly two lines and carries a payoff clause after a comma · 60 words total.
