@@ -19,9 +19,14 @@ Your newborn isn't trying to manipulate you…
 02  Crying is the only sentence they have, and it's pointed at the one they trust
 03  Wanting to be held isn't a tactic, it's most of what they're for right now
 04  The intensity is about how new they are, not about anything you did
-05  Answering them now is how they learn the world answers back
+05  Some days are harder than others, and that's okay
 
 ## Closer (share)
 Send this to a mom who could use a kinder voice today
 
 Rendered slide-1..slide-7 (weight 650, BG_CREAM, cover byline on).
+
+REVISED 2026-08-24 per Ben's review: item 05 replaced. It was *"Answering them now is how they learn
+the world answers back"* — a developmental claim dressed as reassurance, and the one item in the set
+that told her what her response was DOING rather than letting her off the hook. His line ends the
+post on permission instead of mechanism, which is the register this lane is supposed to be in.
