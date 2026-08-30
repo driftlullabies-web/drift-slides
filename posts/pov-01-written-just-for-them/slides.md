@@ -9,7 +9,8 @@ chain of the real onboarding answers + a payoff closer. Product is **shown, neve
 Cadence: **1×/week** (one showcase keeps the give-feel; more tilts the feed toward selling).
 
 ## Cover (Variant A — dominant POV hook, subordinate lead-in below)
-hook (navy 650, size 72): POV: your baby's bedtime song was written just for them
+hook: POV: your baby's bedtime song was written just for them
+render note: navy 650, size 72
 subline (lavender-light 500, size 46, below the hook): It started with 5 little questions…
 *(🤍 lives in the caption only — Lora can't render the emoji on-slide)*
 
@@ -22,6 +23,8 @@ subline (lavender-light 500, size 46, below the hook): It started with 5 little 
 ## Closer (payoff — the 5th question, the name, is held for here)
 6 — Now every bedtime has a song with their name in it
 *(true claim — the finished lullaby actually sings the child's name, confirmed by Ben)*
+*Locked, Ben's own wording, kept as written per Ben's review — do not rewrite to satisfy
+check_closers.py's length/echo heuristics; the flagship's closer is a deliberate exception.*
 *Alt emotional closer, reserved for a future POV variant: "Now you have a song that holds your love."
 Soften any "keeps them safe" phrasing per drift-claim-softening before using.*
 
