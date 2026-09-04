@@ -31,8 +31,13 @@ no terminal period, no eyebrow per the lane's current convention.
 ✅ **RE-RENDERED 2026-09-04 (Phase 2)** via `render_photo_cta(main="But a voice like that can be
 made just for them")`.
 
-⚠️ **It rendered with the URL line `driftlullabies.com`, not the LINK IN BIO pill — flagged, not
-changed.** `render_photo_cta` has no pill path at all; it only draws a URL. That means the whole
+✅ **FIXED 2026-09-04 — it now renders the LINK IN BIO pill.** Ben: *"poetry lane should be the
+pill, not the driftlullabies.com that must be an error not an exception."* `render_photo_cta` had no
+pill path at all and now defaults to one. Poetry 02 (still queued for Sun Sep 6) was re-rendered
+too; Poetry 01 published Aug 27 and is left as it shipped.
+
+~~⚠️ **It rendered with the URL line `driftlullabies.com`, not the LINK IN BIO pill — flagged, not
+changed.**~~ `render_photo_cta` has no pill path at all; it only draws a URL. That means the whole
 poetry lane diverges from [[drift-website-cta-locked]]'s current card (eyebrow + ask + pill), and
 this post's own caption says "link in bio" while its card says the URL.
 
