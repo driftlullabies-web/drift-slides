@@ -24,12 +24,23 @@ into dreamland.
 Website card, **no eyebrow in this lane** (Ben cut it — cleaner after a poem; the open question
 about restoring one is still unanswered, see below — NOT decided unilaterally here).
 
-**ASK WRITTEN 2026-09-03 (this weekly run):** "But a voice like that can be made just for them" —
-turns the reveal's own image (voice as a blanket, warmed, carried into dreamland) toward the song,
-no terminal period, no eyebrow per the lane's current convention.
+**ASK — BEN'S, 2026-09-04:** "Make an original lullaby just for *them*" (`*them*` renders italic
+lavender). Replaces the engine's "But a voice like that can be made just for them," which Ben
+flagged as reading weird. He was right, and for a reason worth keeping:
 
-✅ **RE-RENDERED 2026-09-04 (Phase 2)** via `render_photo_cta(main="But a voice like that can be
-made just for them")`.
+- **It said we make a VOICE.** [[drift-product-truth]] is explicit — five questions in, a
+  custom-composed song out, *never* "made in your voice," and never invent a capability to make a
+  CTA bridge land. The old line borrowed the poem's voice-as-blanket image and paid for it in
+  accuracy.
+- **It was passive with no agent.** Every other house ask has one.
+- **It was the only website ask in the account that never said "song" or "lullaby."** The product
+  noun was missing from the product ask.
+
+Ben's line fixes all three and drops the "But" — which is right, because **this lane has no
+eyebrow**, so a "But…" was turning away from nothing. An imperative is the coherent shape for a
+single-line CTA card with no concession above it.
+
+✅ **RE-RENDERED 2026-09-04** via `render_photo_cta(main="Make an original lullaby just for *them*")`.
 
 ✅ **FIXED 2026-09-04 — it now renders the LINK IN BIO pill.** Ben: *"poetry lane should be the
 pill, not the driftlullabies.com that must be an error not an exception."* `render_photo_cta` had no
@@ -51,7 +62,7 @@ stale since the pill landed on 2026-08-27?
 ~~⚠️ **NOT YET RE-RENDERED — this is COPY ONLY.**~~ Slide 4's PNG in this queue folder still carries
 the OLD locked "type our website into your browser" wording and the retired URL line from before
 the 2026-08-27 CTA rewrite. Phase 2 must re-render it:
-  drift_slides.render_photo_cta(out, main="But a voice like that can be made just for them")
+  drift_slides.render_photo_cta(out, main="Make an original lullaby just for *them*")
 then re-push to GitHub.
 
 ⚠️ OPEN QUESTION for Ben, still unresolved: now that the eyebrow carries half the copy's work (it
@@ -63,7 +74,7 @@ What singing to your baby at bedtime actually is.
 
 Not a performance. A texture — and one they'll know long before they know a single word of it.
 
-But a voice like that can be made just for them — link in bio. 🤍
+Make an original lullaby just for them — link in bio. 🤍
 
 #lullaby #babylullaby #newbornsleep #newmom #babysleep
 
