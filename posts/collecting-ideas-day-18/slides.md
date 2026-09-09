@@ -1,6 +1,6 @@
 # Collecting Ideas - Day 18
 
-Format: **REEL** (single-image 6s loop, 1080x1920 MP4) · bg honey/vanilla (#F3EBD6) · lane Collecting Ideas · CTA on-card
+Format: **REEL** (single-image 3.5s loop, 1080x1920 MP4) · bg honey/vanilla (#F3EBD6) · lane Collecting Ideas · CTA on-card
 Renderer: `Automation Engine/_render_collecting_ideas.py` · Bank: `Day X of collecting ideas/ideas-bank.json`
 
 ## Card
