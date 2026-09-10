@@ -1,8 +1,54 @@
 # 03 - Blanket Warmth
 
-Format: Lullaby-poetry ("In English we say... / in poetry we say...") — photo-background
-treatment, rain-on-glass image, white/light text, left-justified reveal. See
-drift-lullaby-poetry-format (project memory) for the full spec and template bank.
+⚠️ **FORMAT SWAPPED 2026-09-09 — this now ships as a ONE-CARD 6s REEL, not the 4-slide carousel.**
+Per Ben's review. The four carousel PNGs are kept in `_carousel-superseded/` rather than deleted,
+because they are what every earlier artefact in this week's run describes.
+
+**What actually ships:** `card.png` + `reel.mp4`, built from `card.json` by
+`Automation Engine/reels/drift_reel_nicu.py`. 1080×1920, 6.000s, 180 frames — decoded, not
+checksummed ([[drift-checksums-arent-validity]]).
+
+**Why the whole poem fits on one card.** At 47 words this is the shortest post in the lane, and the
+carousel spent three slides pacing a reveal the reader can take in at once. The reel keeps the
+reveal by *typography* instead of by swipe: the two labels sit in bold, the two sayings in quotes,
+and the poem in lavender italic, so "In English" and "In poetry" read as a pair the eye compares
+rather than a headline and its footnote.
+
+**Four things Ben specified on the card, each a decision worth keeping:**
+
+1. **No headline.** "It should feel like two equal thoughts, not a headline." A 62px title over
+   44px body declares one of the two sayings to be the point; the whole device depends on them
+   weighing the same. `render_nicu_card(headline=None)` was added for this.
+2. **Both labels bold, both sayings in quotation marks.** The quotes are what makes "we say"
+   literal — the reader is being shown the two sentences, not told about them.
+3. **Every paragraph gap equal.** Each label is its own paragraph, so the gap after "In English we
+   say" matches the gap after the sentence it introduces. Ben's note; it turns two tight clumps
+   into one even rhythm.
+4. **CTA centred over the pill** (`ask_align: "center"`), while the body stays flush left. A
+   left-aligned ask leaves the centred pill visibly off-axis from the line it belongs to.
+
+The card is also `vcenter: true` — a new flag that drops a SHORT card by half its leftover room so
+it sits optically centred instead of clinging to the top of the frame. Off by default; the five
+already-shipped NICU/INSP cards were re-rendered and confirmed byte-identical.
+
+⚠️ **Still true, still unresolved: the reel renders on FLAT `BG_MIST` (#DCE6EC), not the
+rain-on-glass photo the carousel used.** No reel renderer has a photo-background path at all. This
+post therefore does not look like the two poetry posts that came before it. That is a renderer gap,
+not a copy decision — see [[drift-inspired-song-poems-die]].
+
+⚠️ **Collision, pre-existing and NOT introduced by the format swap: this post's cover line
+"I sang my baby a lullaby before bed" is character-identical to Poetry 02 · Legacy Voice, which
+published Sun Sep 6 — four days before this runs.** The lane's template reuses one English sentence
+under different poetic restatements, so the collision is structural to the format rather than a
+drafting slip. Flagged for Ben, not changed unilaterally: the fix is either to vary the English
+sentence per post or to space same-sentence posts by weeks, and that is a lane rule, not a
+render pass.
+
+---
+
+Format (superseded, kept for reference): Lullaby-poetry ("In English we say... / in poetry we
+say...") — photo-background treatment, rain-on-glass image, white/light text, left-justified
+reveal. See drift-lullaby-poetry-format (project memory) for the full spec and template bank.
 
 ## Cover eyebrow
 In English we say...
