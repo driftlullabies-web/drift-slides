@@ -122,7 +122,7 @@ Fri 9/25) was deliberately written to angle **C** so the week itself is not E tw
 | # | Blocker | Status |
 |---|---|---|
 | 1 | Caption not written | ✅ **written above** |
-| 2 | **Is Emma's song real?** | 🔴 **STOP AND FLAG — unresolved, and this post must not publish until Ben answers.** |
+| 2 | **Is Emma's song real?** | ✅ **Cleared by Ben 2026-09-23** ("should be good to go now"). He pushed the post to GitHub with "Listen to Emma's" unchanged, and it was queued for Wed 9/23 at 3:00pm ET. |
 | 3 | Unhedged claim on slide 3 | ✅ **hedged** — see below |
 | 4 | Cover must be drawn manually | ⏳ Phase 2 (render), unchanged |
 | 5 | Ten slides untested at that length | ⏳ watch completion, unchanged |
