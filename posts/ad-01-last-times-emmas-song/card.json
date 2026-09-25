@@ -1,0 +1,32 @@
+{
+  "headline": "The newborn 'last times' you'll never see coming",
+  "items": [
+    "The last 3am feed, the only one you'd have savoured if you had known",
+    "The last curl asleep on your chest, unannounced",
+    "The last bath where they still fit in the tub, knees folded up"
+  ],
+  "cta": {
+    "eyebrow": "You won't know until they happen. A song can help you hold onto these moments.",
+    "ask": "When you're ready, we can help find *their* song",
+    "guarantee": false
+  },
+  "visual_hook": {
+    "highlight": "never see coming"
+  },
+  "note_angle": -2.5,
+  "eyebrow_break_after": "happen.",
+  "note": {
+    "lines": [
+      "this is Emma's lullaby, written for",
+      "a daughter loved before she was born"
+    ],
+    "font": 54,
+    "line_h": 56,
+    "w": 760,
+    "h": 270,
+    "pad_top": 46
+  },
+  "ask_break_after": "ready,",
+  "note_gap": 44,
+  "eyebrow_maxw": 760
+}
