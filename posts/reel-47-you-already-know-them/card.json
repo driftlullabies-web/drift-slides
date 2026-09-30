@@ -1,0 +1,14 @@
+{
+  "headline": "The things you already know about them before you've even met them",
+  "items": [
+    "The side they kick on when you lie down, as if they've claimed it",
+    "The hiccups at the same hour most nights, right on time",
+    "How they go still when one particular voice talks to your belly",
+    "The food that wakes them up, which you eat anyway"
+  ],
+  "turn": "You've been learning them for months. Nobody calls it meeting yet.",
+  "visual_hook": {
+    "highlight": "already know",
+    "sticky": true
+  }
+}

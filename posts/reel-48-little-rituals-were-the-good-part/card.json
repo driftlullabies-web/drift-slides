@@ -1,0 +1,14 @@
+{
+  "headline": "Little rituals you won't know were the good part until they're gone",
+  "items": [
+    "The towel hood after a bath, one ear poking out",
+    "Kissing each fist before the sleep sack zips, left and then right",
+    "The walk to the window to say goodnight to the same streetlight",
+    "Counting their toes aloud at every change, even at 3am"
+  ],
+  "turn": "None of these get a last day. They just quietly stop.",
+  "visual_hook": {
+    "highlight": "the good part",
+    "sticky": true
+  }
+}

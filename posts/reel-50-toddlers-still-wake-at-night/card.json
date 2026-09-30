@@ -1,0 +1,14 @@
+{
+  "headline": "Toddlers still wake at night. It doesn't mean you went backwards.",
+  "items": [
+    "The 'Mama?' down the hall, checking you still exist",
+    "A cup of water requested urgently at 2am, then not drunk at all",
+    "A small hand patting your face in the dark, making sure it's you",
+    "The negotiation over which stuffed animal, held entirely in whispers"
+  ],
+  "turn": "It isn't a habit you made. It's someone checking you're there.",
+  "visual_hook": {
+    "highlight": "went backwards",
+    "sticky": true
+  }
+}

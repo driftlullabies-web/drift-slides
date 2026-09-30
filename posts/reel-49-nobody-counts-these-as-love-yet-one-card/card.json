@@ -1,0 +1,16 @@
+{
+  "headline": "Nobody counts these as love yet",
+  "body": [
+    "He stops crying a half-second before you pick him up.\n_He heard you coming._\nHe turns his head toward one voice in a room full of voices.",
+    "He falls asleep on you and not in the perfectly good bassinet you assembled twice.\nHe waits — fed, changed, nothing actually wrong — until you're the one who comes.",
+    "You keep asking whether he knows you yet.",
+    "*He's been answering in the only language he has, since the first week.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

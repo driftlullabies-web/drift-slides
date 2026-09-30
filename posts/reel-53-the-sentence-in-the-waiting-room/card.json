@@ -1,0 +1,12 @@
+{
+  "headline": "The sentence in your head in the pediatrician's waiting room",
+  "body": [
+    "~~They're going to think I'm doing it wrong.~~\n_They see a hundred parents a week. I'm the one who noticed._",
+    "~~I should already know the answer to this.~~\n_Nobody knows the answer to a question they've never been asked._",
+    "~~I'm probably overreacting.~~\n_I'm paying attention. That's the job._",
+    "~~Everyone else here has it together.~~\n_Everyone else is also holding a baby and a list on their phone._"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null
+}
