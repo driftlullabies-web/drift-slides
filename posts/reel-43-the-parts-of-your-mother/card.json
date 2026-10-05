@@ -9,6 +9,6 @@
   "turn": "You thought you'd forgotten most of it. Your hands didn't.",
   "visual_hook": {
     "highlight": "you only find",
-    "sticky": true
+    "sticky": "turn"
   }
 }

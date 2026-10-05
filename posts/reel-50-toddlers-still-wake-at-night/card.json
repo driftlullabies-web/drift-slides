@@ -9,6 +9,6 @@
   "turn": "It isn't a habit you made. It's someone checking you're there.",
   "visual_hook": {
     "highlight": "went backwards",
-    "sticky": true
+    "sticky": "turn"
   }
 }

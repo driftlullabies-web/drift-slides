@@ -2,7 +2,7 @@
 
 Format: **REEL** (single-image 6s loop, 1080x1920 MP4) · bg cream · lane **Inspired** · CTA **Share**
 (asked in the caption) · slot Mid (Tue 10/6) · avatar **newborn** · NOT product-forward · no website ask.
-Visual hook: highlighter on *"still can't sleep"* + sticky note (Ben, 2026-09-22: every 6s reel).
+Visual hook: highlighter on *"still can't sleep"* + sticky note carrying the TURN line, byline back to the plain footer (Ben, 2026-10-05: "the sticky note should only emphasize something important, not highlight footer information").
 
 ---
 

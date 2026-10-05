@@ -9,6 +9,6 @@
   "turn": "Letting someone else hold them is also a way of loving them.",
   "visual_hook": {
     "highlight": "still can't sleep",
-    "sticky": true
+    "sticky": "turn"
   }
 }
