@@ -1,0 +1,14 @@
+{
+  "headline": "Nobody claps when a woman twelve weeks postpartum walks back into work",
+  "items": [
+    "You pumped in a supply closet, then walked into the meeting",
+    "Someone asked about your time off. You smiled.",
+    "You checked the daycare camera app between every single email",
+    "You left right at five and it felt like running a red light"
+  ],
+  "turn": "Nobody clapped. Somebody should have.",
+  "visual_hook": {
+    "highlight": "walks back into work",
+    "sticky": "turn"
+  }
+}

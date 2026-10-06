@@ -1,0 +1,14 @@
+{
+  "headline": "What your toddler only does when it's just the two of you",
+  "items": [
+    "The whole story of their day, told in the bath, with sound effects",
+    "Making you do the voice for every single animal",
+    "Holding your face in both hands to make sure you're listening",
+    "A little kitchen dance that stops the second anyone walks in"
+  ],
+  "turn": "Everyone else gets the toddler. You get this one.",
+  "visual_hook": {
+    "highlight": "just the two of you",
+    "sticky": "turn"
+  }
+}

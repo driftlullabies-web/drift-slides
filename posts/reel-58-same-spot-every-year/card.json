@@ -1,0 +1,14 @@
+{
+  "headline": "The same spot, every year: traditions built on one place",
+  "items": [
+    "The same hill for the fireworks, same blanket, a photo from behind",
+    "One tree farm every December, same sign, same photo",
+    "The same restaurant every Mother’s Day, the same table if it's free",
+    "The same sledding hill on the first snow, even before they can ride"
+  ],
+  "turn": "The place stays the same. That's how you'll see them grow.",
+  "visual_hook": {
+    "highlight": "every year",
+    "sticky": "turn"
+  }
+}

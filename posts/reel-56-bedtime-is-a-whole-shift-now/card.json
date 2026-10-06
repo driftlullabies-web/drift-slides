@@ -1,0 +1,14 @@
+{
+  "headline": "Bedtime was one step. Now it's a whole shift.",
+  "items": [
+    "Getting into bed used to end the day. Now it's only halftime",
+    "Storms never woke you. Now a little sigh does",
+    "One alarm used to be enough. Now you sleep half-listening",
+    "You used to wake up rested. Now it's a math problem"
+  ],
+  "turn": "Night used to be for sleeping. Now it's for keeping watch.",
+  "visual_hook": {
+    "highlight": "a whole shift",
+    "sticky": "turn"
+  }
+}
