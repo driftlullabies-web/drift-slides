@@ -2,7 +2,7 @@
 
 Format: **REEL** (single-image 6s loop, 1080x1920 MP4) · bg cream · lane **Warmth** · CTA **Share**
 (asked in the caption) · slot AM (Tue 10/13) · avatar **newborn (returning to work)** · NOT product-forward · no website ask.
-Visual hook: highlighter on *"walks back into work"* + sticky note carrying the TURN line;
+Visual hook: highlighter on *"walks back into work"* (sticky note RETIRED 2026-10-06 — turn renders as the plain last line);
 byline stays the plain footer (Ben, 2026-10-05).
 
 ---

@@ -8,7 +8,6 @@
   ],
   "turn": "Nobody clapped. Somebody should have.",
   "visual_hook": {
-    "highlight": "walks back into work",
-    "sticky": "turn"
+    "highlight": "walks back into work"
   }
 }

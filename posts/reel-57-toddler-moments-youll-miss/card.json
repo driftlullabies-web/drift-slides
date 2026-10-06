@@ -8,7 +8,6 @@
   ],
   "turn": "You won't miss the mess. You'll miss exactly this.",
   "visual_hook": {
-    "highlight": "nobody tells you",
-    "sticky": "turn"
+    "highlight": "nobody tells you"
   }
 }

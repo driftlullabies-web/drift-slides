@@ -2,7 +2,7 @@
 
 Format: **REEL** (single-image 6s loop, 1080x1920 MP4) · bg cream · lane **Inspired** · CTA **Share**
 (asked in the caption) · slot AM (Wed 10/14) · avatar **newborn** · NOT product-forward · no website ask.
-Visual hook: highlighter on *"a whole shift"* + sticky note carrying the TURN line;
+Visual hook: highlighter on *"a whole shift"* (sticky note RETIRED 2026-10-06 — turn renders as the plain last line);
 byline stays the plain footer (Ben, 2026-10-05).
 
 ---

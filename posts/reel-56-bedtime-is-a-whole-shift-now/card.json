@@ -8,7 +8,6 @@
   ],
   "turn": "Night used to be for sleeping. Now it's for keeping watch.",
   "visual_hook": {
-    "highlight": "a whole shift",
-    "sticky": "turn"
+    "highlight": "a whole shift"
   }
 }

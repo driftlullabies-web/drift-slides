@@ -8,7 +8,6 @@
   ],
   "turn": "Everyone else gets the toddler. You get this one.",
   "visual_hook": {
-    "highlight": "just the two of you",
-    "sticky": "turn"
+    "highlight": "just the two of you"
   }
 }

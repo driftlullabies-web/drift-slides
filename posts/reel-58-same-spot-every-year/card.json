@@ -8,7 +8,6 @@
   ],
   "turn": "The place stays the same. That's how you'll see them grow.",
   "visual_hook": {
-    "highlight": "every year",
-    "sticky": "turn"
+    "highlight": "every year"
   }
 }
