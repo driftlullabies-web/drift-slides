@@ -8,7 +8,6 @@
   ],
   "turn": "None of these get a last day. They just quietly stop.",
   "visual_hook": {
-    "highlight": "the good part",
-    "sticky": "turn"
+    "highlight": "the good part"
   }
 }

@@ -2,7 +2,7 @@
 
 Format: **REEL** (single-image 6s loop, 1080x1920 MP4) · bg cream · lane **Sleep** · CTA **Save**
 (asked in the caption) · slot AM (Sun 10/11) · avatar **under-3** · NOT product-forward · no website ask.
-Visual hook: highlighter on *"went backwards"* + sticky note carrying the TURN line, byline back to the plain footer (Ben, 2026-10-05: "the sticky note should only emphasize something important, not highlight footer information").
+Visual hook: highlighter on *"went backwards"* (sticky note RETIRED 2026-10-06 — turn renders as the plain last line), byline back to the plain footer (Ben, 2026-10-05: "the sticky note should only emphasize something important, not highlight footer information").
 
 ---
 

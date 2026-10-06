@@ -8,7 +8,6 @@
   ],
   "turn": "You've been learning them for months. Nobody calls it meeting yet.",
   "visual_hook": {
-    "highlight": "already know",
-    "sticky": "turn"
+    "highlight": "already know"
   }
 }
