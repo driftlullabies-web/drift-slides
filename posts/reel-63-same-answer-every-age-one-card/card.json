@@ -1,0 +1,17 @@
+{
+  "headline": "It starts at 3am. It never really stops.",
+  "body": [
+    "You're two weeks old and furious.\nI come.",
+    "You're four. The monster's back.\nI come, and I check twice.",
+    "You're sixteen and stuck at 1am.\nI come, and I don't ask in the car.",
+    "You're thirty, up with your own.\nI come, and I take a shift.",
+    "*Same answer at every age.*\n*You'll never have to ask twice.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    4
+  ],
+  "gap_scale": 1.5
+}

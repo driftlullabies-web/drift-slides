@@ -1,0 +1,16 @@
+{
+  "headline": "He still thinks he's bad at this",
+  "body": [
+    "She stops fussing the second\nhis key turns in the door.\n_He thinks that's a coincidence._",
+    "She naps on his chest all game,\nand he doesn't move once.\nHe calls that \"not doing much.\"",
+    "He keeps asking\nif he's holding her right.",
+    "*She already picked him.*\n*Somebody should tell him.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

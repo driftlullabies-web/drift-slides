@@ -1,5 +1,18 @@
 # POV 06 - Never Good With Words
 
+## 🔁 RE-SLOTTED 2026-10-12 → Mon 10/19, Mid 2:00pm ET (rotation W12 · "other") — PRE-BUILT, do NOT re-render
+The slides on disk were rendered for its first outing (Thu 9/24, 292 views) and already carry the current pill card
+(checked by eye 2026-10-12: slide 4 = eyebrow + ask + LINK IN BIO; slides 2–3 are plain statement slides with no
+"01/02" numerals). Copy below is unchanged.
+**Why 06 and not 03 (the pointer):** walking the others cycle from 03 — **03** (E) collides with the nightly Singing
+Wall keepsake hooks *and* with 96 (E, Fri), and still has the crib-safety line · **04** ran 10/5 · **05** (B) collides
+with 95 (B, Wed) · **07** and **02** (E) collide with 96 · **06 (C)** is the first that clears 3a. Nearest C in the
+week: SW-021 *"Not a good singer? You don't have to"* (Sat 11pm) — 5 days later.
+⚠️ Product-as-subject has been bottom-half five windows running and POV was the account's bottom post in three of the
+last four weeks (POV 04: 145 views, 0.00% ER). Ben asked for POV to stay (2026-10-11). **Cutting it leaves the
+group at 2 (95 + 96) and nothing else moves.**
+
+
 Format: carousel · bg **BLUSH `#EFDFD9`** · lane **POV Lullaby** · 4 slides · CTA **Website**
 (locked pill card) · Sound: **Brand lane — the Drift lullaby as original audio** · slot Mid
 (Fri 9/25) · avatar newborn · 🤍 in caption only (Lora cannot render it on a slide).

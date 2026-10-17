@@ -1,0 +1,16 @@
+{
+  "headline": "One day you'll fall asleep without me",
+  "body": [
+    "The monitor in a drawer.\nI'll be the one who calls.",
+    "None of that is tonight.\nFour inches from my face.",
+    "Everyone keeps telling me\nhow fast it goes.",
+    "*They're right.*\n*It just hasn't gone yet.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

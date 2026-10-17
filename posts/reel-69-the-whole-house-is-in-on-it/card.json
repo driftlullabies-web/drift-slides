@@ -1,0 +1,13 @@
+{
+  "headline": "Everything in your house that learned to be quiet for one nap",
+  "items": [
+    "The front door, closed like you're cracking a safe",
+    "The dishwasher, which only runs once they're down for the night",
+    "The squeaky stair that everyone steps over, even the dog",
+    "The doorbell, taped over with a note that says 'please knock softly'"
+  ],
+  "turn": "The whole house is in on it now.",
+  "visual_hook": {
+    "highlight": "quiet for one nap"
+  }
+}
