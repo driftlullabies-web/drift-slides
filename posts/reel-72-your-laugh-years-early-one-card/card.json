@@ -1,0 +1,16 @@
+{
+  "headline": "I knew your laugh years before you were born",
+  "body": [
+    "You laughed for the first time\nat the ceiling fan.",
+    "It was my dad's laugh.\nThe exact one, start to finish.",
+    "I had to sit down.",
+    "*Some things skip a generation.*\n*Some things just wait for you.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

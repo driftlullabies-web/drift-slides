@@ -1,0 +1,16 @@
+{
+  "headline": "My mom watched me rock you last night",
+  "body": [
+    "She didn't say a word.\nShe just leaned on the doorframe.",
+    "Same sway. Same hum.\nI didn't know I knew it.",
+    "She smiled like she'd been\nwaiting thirty years to see it.",
+    "*I learned it from her.*\n*You'll learn it from me.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

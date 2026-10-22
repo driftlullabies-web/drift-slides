@@ -1,0 +1,16 @@
+{
+  "headline": "Nobody else saw the best part of today",
+  "body": [
+    "2:14am. One sock off.\nOne fist on your collarbone.",
+    "A sigh so big\nit moved their whole body.",
+    "The street was dark.\nThe whole house was asleep.",
+    "*Just you and them,*\n*and no one to tell.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}
