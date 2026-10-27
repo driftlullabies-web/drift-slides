@@ -9,7 +9,8 @@ one shared size across all story cards). The NEWBORN beat is split across slides
 Rules: no "sleep training" · "Dad" only · daughter's name/audio private · never imply Drift songs are sung in the parent's voice.
 
 ## Cover
-I sang my daughter the same lullaby every night for 5 years. Then she said, "Please stop singing, Daddy."
+I sang my daughter the same lullaby every night for 5 years, until she said "Please stop singing, Daddy."
+Sub-eyebrow: Here's how we got there.
 
 ## Body
 2 BEFORE SHE WAS BORN — I wrote her a lullaby before she was born. / Her name is in it.
