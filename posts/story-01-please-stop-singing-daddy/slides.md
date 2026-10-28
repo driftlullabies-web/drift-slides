@@ -15,7 +15,7 @@ I sang my daughter the same lullaby every night for 5 years, until she said "Ple
 Here's how we got there.
 
 ## Body
-2 BEFORE SHE WAS BORN — I wrote her a lullaby.
+2 BEFORE SHE WAS BORN — I wrote her a lullaby. / It felt a little cheesy, but I sang it to her in mommy's belly.
 3 NEWBORN — I had no idea how to get my newborn to sleep. / Bouncing. The rocking chair. Rocking while standing. Swaddles. Sleep sacks. The mobile. / The song was one more thing to try.
 4 But it gave me something I needed: a routine. / Something I knew how to do. / A way to give her my love.
 5 6–12 MONTHS — It became her cue that it was time to sleep. / Sometimes she'd get sad when she heard it. She knew the crib was coming.
