@@ -10,10 +10,12 @@ Rules: no "sleep training" · "Dad" only · daughter's name/audio private · nev
 
 ## Cover
 I sang my daughter the same lullaby every night for 5 years, until she said "Please stop singing, Daddy."
-Sub-eyebrow: Here's how we got there.
+
+## Cover sub-eyebrow
+Here's how we got there.
 
 ## Body
-2 BEFORE SHE WAS BORN — I wrote her a lullaby before she was born. / Her name is in it.
+2 BEFORE SHE WAS BORN — I wrote her a lullaby.
 3 NEWBORN — I had no idea how to get my newborn to sleep. / Bouncing. The rocking chair. Rocking while standing. Swaddles. Sleep sacks. The mobile. / The song was one more thing to try.
 4 But it gave me something I needed: a routine. / Something I knew how to do. / A way to give her my love.
 5 6–12 MONTHS — It became her cue that it was time to sleep. / Sometimes she'd get sad when she heard it. She knew the crib was coming.
