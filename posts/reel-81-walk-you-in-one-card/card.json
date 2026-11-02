@@ -1,0 +1,16 @@
+{
+  "headline": "One day you won't need me to walk you in",
+  "body": [
+    "A quick wave at the door.\nI'll be the one who stays a minute too long.",
+    "That isn't today.\nToday you're asleep in the carrier, cheek on my heart.",
+    "People keep telling me\nto soak it all in.",
+    "*I can't soak in all of it.*\n*I'm keeping this part.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

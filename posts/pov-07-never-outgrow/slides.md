@@ -29,3 +29,12 @@ improvise the wording, `drift-website-cta-locked`) and the caption gained the UR
 1–3 are untouched. This is the second POV to run the new closer and the template holds.
 
 Never-touch, unchanged: BG_BLUSH, Brand-lane sound, 🤍 in the caption only.
+
+---
+
+✅ **CLOSER RE-RENDERED 2026-11-02 (week of Nov 2, autonomous run).** Slide 4 still carried the Aug 24 "type our website into your
+browser" card — the pre-Aug-27 shape, with no per-post ask and no LINK IN BIO pill. Re-rendered with `render_cta` on BG_BLUSH:
+Eyebrow: "The one thing that doesn't get outgrown."
+Ask: "A song with their name in it never gets small"
+Caption's URL paragraph → "Make theirs — link in bio. 🤍". Old slide-4 + caption kept in `_closer-superseded-2026-11-02/`.
+Slides 1–3 untouched.

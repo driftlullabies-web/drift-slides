@@ -1,0 +1,17 @@
+{
+  "headline": "It starts with one finger. It never really lets go.",
+  "body": [
+    "You're one day old, fist on my finger.\nI hold on.",
+    "You're five, at the edge of a busy road.\nI hold on, and I don't let go first.",
+    "You're fourteen and won't hold hands.\nI hold on from across the parking lot.",
+    "You're thirty, with a baby of your own.\nI hold your other hand.",
+    "*The grip changes every few years.*\n*The hold never does.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    4
+  ],
+  "gap_scale": 1.5
+}

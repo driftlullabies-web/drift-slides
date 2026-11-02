@@ -1,0 +1,16 @@
+{
+  "headline": "Nobody counts these as \"sorry\" yet",
+  "body": [
+    "Ten minutes after the meltdown,\nhe drops his favorite truck\nin your lap and walks off.",
+    "He pats your arm twice,\nlike you're the one who needs it.",
+    "He doesn't have the word yet.\nHe has a truck.",
+    "*It counts.*\n*It's the whole apology.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}

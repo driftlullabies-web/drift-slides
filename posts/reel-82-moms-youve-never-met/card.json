@@ -1,0 +1,13 @@
+{
+  "headline": "Nobody tells you your closest friends this year might be moms you've never met",
+  "items": [
+    "The one in another time zone, always up for your 4am feed",
+    "You know her baby's nap schedule, but not her last name",
+    "A 3am voice note from her, just the word 'same'",
+    "You saw her baby's first steps, before you'd ever seen her face"
+  ],
+  "turn": "Never met. Send this to one.",
+  "visual_hook": {
+    "highlight": "moms you've never met"
+  }
+}
