@@ -1,0 +1,13 @@
+{
+  "headline": "The 4am feed has its own rules, and only you know them",
+  "items": [
+    "The only light allowed is your phone, turned all the way down",
+    "Nobody talks above a whisper, somehow including the cat",
+    "You count every swallow like it's part of the job",
+    "Time moves differently, and nobody checks it"
+  ],
+  "turn": "Nobody else knows the rules. That's what makes it yours.",
+  "visual_hook": {
+    "highlight": "4am feed"
+  }
+}
