@@ -1,0 +1,17 @@
+{
+  "headline": "It starts in the rear-view mirror. It never really stops.",
+  "body": [
+    "You're three weeks old, rear-facing.\nI check the mirror at every light.",
+    "You're six and kicking my seat.\nI check the mirror. You make a face.",
+    "You're seventeen and driving.\nI watch the dot until it's home.",
+    "You're thirty, buckling in your own.\nI check the straps twice. You let me.",
+    "*The mirror changes every few years.*\n*I never stop looking back.*"
+  ],
+  "beats": [
+    4
+  ],
+  "gap_scale": 1.5,
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null
+}

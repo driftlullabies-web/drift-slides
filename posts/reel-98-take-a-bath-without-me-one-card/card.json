@@ -1,0 +1,16 @@
+{
+  "headline": "One day you'll take a bath without me",
+  "body": [
+    "Door shut, music too loud.\nI'll be the one knocking to ask if you're okay.",
+    "That isn't tonight.\nTonight you're in the sink, furious about it, holding my thumb.",
+    "Everyone keeps telling me\nthe days are long and the years are short.",
+    "*They're right.*\n*Tonight still gets to be long.*"
+  ],
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5,
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null
+}
