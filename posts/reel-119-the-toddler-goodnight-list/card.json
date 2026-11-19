@@ -1,0 +1,13 @@
+{
+  "headline": "The goodnight list your two-year-old insists on, every single night",
+  "items": [
+    "Goodnight to the dog, already asleep and unbothered",
+    "Goodnight to the light switch, which only they get to flip now",
+    "Goodnight to Grandma through the phone, kiss on the screen and all",
+    "Goodnight to you last, because you're the one who stays"
+  ],
+  "turn": "One night the list gets shorter, and nobody announces it.",
+  "visual_hook": {
+    "highlight": "goodnight list"
+  }
+}

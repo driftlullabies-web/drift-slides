@@ -1,0 +1,17 @@
+{
+  "headline": "What to sing when you don't know any lullabies",
+  "items": [
+    "Anything slow, hummed, with no words at all",
+    "The song your mom sang, even if you only remember one line",
+    "A pop song, slowed way down, with their name in the chorus",
+    "The same made-up tune every night, until it becomes theirs"
+  ],
+  "cta": {
+    "eyebrow": "Or skip the guessing.",
+    "ask": "Answer five questions and hear their song, free",
+    "guarantee": false
+  },
+  "visual_hook": {
+    "highlight": "don't know any lullabies"
+  }
+}

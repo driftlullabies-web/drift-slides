@@ -1,0 +1,25 @@
+{
+  "headline": "5 things you didn't know your lullaby was doing",
+  "items": [
+    "It can slow their heart rate",
+    "It may sync with their breathing",
+    "It bonds you both",
+    "It tells their brain it's time to sleep",
+    "It may be building their language"
+  ],
+  "item_subtext": [
+    "helping their little body settle",
+    "matching your slow, steady rhythm",
+    "your voice becomes the familiar one",
+    "through repetition and predictability",
+    "long before they can talk"
+  ],
+  "cta": {
+    "eyebrow": "Now imagine one with their name in it.",
+    "ask": "Make your lullaby for free",
+    "guarantee": false
+  },
+  "visual_hook": {
+    "highlight": "didn't know"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "headline": "I knew your sneeze years before you were born",
+  "body": [
+    "You sneeze three times in a row.\nAlways three. Never two.",
+    "So does my mom.\nEvery Thanksgiving, three times,\nright over the gravy.",
+    "The first time you did it\nI laughed out loud in the dark.",
+    "*You've never met most of them.*\n*You already do their sneeze.*"
+  ],
+  "bg": "BG_MIST",
+  "align": "left",
+  "pill": null,
+  "beats": [
+    3
+  ],
+  "gap_scale": 1.5
+}
